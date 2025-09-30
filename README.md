@@ -4,8 +4,8 @@
 
 Esta é um tutorial básico de RabbitMQ implementando o padrão "Hello World" - o exemplo mais simples de mensageria onde um produtor (sender) envia mensagens para uma fila e um consumidor (receiver) recebe e processa essas mensagens.
 
-## Seguindo o padrão de tutorial do próprio RabbitMQ
-## Tutorial realizado em Fedora Linux
+# Seguindo o padrão de tutorial do próprio RabbitMQ
+# Tutorial realizado em Fedora Linux
 
 ## 🛠️ Ferramentas Utilizadas
 
